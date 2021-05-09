@@ -1,11 +1,12 @@
 {
-  "name": "backend",
+  "name": "token-travel-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    
-    "clean": "rmdir /s /q node_modules"
+    "clean": "rmdir /s /q node_modules",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
